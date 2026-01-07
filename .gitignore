@@ -2,3 +2,6 @@
 movies_csv
 credentials.json
 token.pickle
+.env
+telethon.session*
+token.json
